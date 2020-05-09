@@ -55,9 +55,9 @@ def imprime_entradas(entradas, total):
     forma tabular.
     """
     for e in entradas:
-        print("{:60} {:10} {:24}".format(*e))
+        print("{:30} {:10} {:24}".format(*e))
         
-    print("Total: {} bytes".format(total))
+    print("{:30} {:10} {:24}".format("Total:",total,"bytes"))
 
 def guarda_entradas(entradas, total, arch_salida):
     """
@@ -106,7 +106,8 @@ def main():
     """
     Función principal del script
     """
-    ruta = "/home/rctorr/python-analisis-datos"
+    # ruta = "/home/rctorr/python-analisis-datos"
+    ruta = "."
     arch_salida = "salida.txt"
     arch_salida_csv = "salida.csv"
     arch_salida_json = "salida.json"

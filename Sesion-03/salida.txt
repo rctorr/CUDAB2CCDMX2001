@@ -1,13 +1,10 @@
-/home/rctorr/python-analisis-datos/sesion04                           0 Sat Apr 25 08:19:57 2020
-/home/rctorr/python-analisis-datos/Sesion-02                          0 Sat Apr 25 14:45:21 2020
-/home/rctorr/python-analisis-datos/Sesion-01                          0 Sat Apr 25 09:19:21 2020
-/home/rctorr/python-analisis-datos/sesion03                           0 Sat Apr 25 08:19:57 2020
-/home/rctorr/python-analisis-datos/.git                               0 Sat May  2 14:44:09 2020
-/home/rctorr/python-analisis-datos/sesion01                           0 Sat Apr 25 08:19:57 2020
-/home/rctorr/python-analisis-datos/README.md                        994 Sat Apr 25 08:21:14 2020
-/home/rctorr/python-analisis-datos/.ipynb_checkpoints                 0 Sat Apr 25 08:29:06 2020
-/home/rctorr/python-analisis-datos/datos.txt                         95 Sat May  2 09:57:23 2020
-/home/rctorr/python-analisis-datos/.gitignore                        21 Sat Apr 25 08:47:21 2020
-/home/rctorr/python-analisis-datos/Sesion-03                          0 Sat May  2 14:46:04 2020
-/home/rctorr/python-analisis-datos/sesion02                           0 Sat Apr 25 08:19:57 2020
-Total: 1110 bytes
+./salida.txt                                                        892 Sat May  9 08:20:12 2020
+./salida.csv                                                        432 Sat May  9 08:20:12 2020
+./__pycache__                                                         0 Sat May  2 13:13:56 2020
+./archivos.py                                                      4043 Sat May  9 08:19:15 2020
+./salida2.json                                                      790 Sat May  9 08:20:12 2020
+./Funciones.ipynb                                                 12016 Sat May  2 12:54:49 2020
+./.ipynb_checkpoints                                                  0 Sat May  2 14:44:19 2020
+./salida.json                                                       790 Sat May  9 08:20:12 2020
+./Archivos.ipynb                                                  17781 Sat May  2 15:13:32 2020
+Total: 36744 bytes
