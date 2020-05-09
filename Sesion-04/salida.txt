@@ -1,0 +1,12 @@
+./archivos.py                                                      4842 Sat May  9 09:57:33 2020
+./SolucionRetos.ipynb                                              2682 Sat May  9 09:39:20 2020
+./salida2.json                                                     1299 Sat May  9 10:16:48 2020
+./salida.txt                                                       1086 Sat May  9 10:16:48 2020
+./salida.json                                                       969 Sat May  9 10:16:48 2020
+./ArgumentosExcepciones.ipynb                                       896 Sat May  9 10:05:43 2020
+./salida.csv                                                        527 Sat May  9 10:16:48 2020
+./dos.txt                                                           105 Sat May  9 09:20:50 2020
+./csvtojson.py                                                       61 Sat May  9 10:09:21 2020
+./.ipynb_checkpoints                                                  0 Sat May  9 10:08:28 2020
+./uno.txt                                                             0 Sat May  9 09:20:08 2020
+Total: 12467 bytes
