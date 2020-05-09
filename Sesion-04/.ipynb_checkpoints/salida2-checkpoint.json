@@ -1,17 +1,57 @@
 [
-    [
-        "./SolucionRetos.ipynb",
-        658,
-        "Sat May  9 09:04:29 2020"
-    ],
-    [
-        "./archivos.py",
-        4043,
-        "Sat May  9 08:21:52 2020"
-    ],
-    [
-        "./.ipynb_checkpoints",
-        0,
-        "Sat May  9 09:03:12 2020"
-    ]
+    {
+        "nombre": "./Publicaciones.csv",
+        "tamanio": 356276,
+        "fecha": "Sat May  9 10:56:29 2020"
+    },
+    {
+        "nombre": "./ArgumentosExcepciones.ipynb",
+        "tamanio": 8497,
+        "fecha": "Sat May  9 10:45:21 2020"
+    },
+    {
+        "nombre": "./archivos.py",
+        "tamanio": 4842,
+        "fecha": "Sat May  9 09:57:33 2020"
+    },
+    {
+        "nombre": "./lc.py",
+        "tamanio": 4760,
+        "fecha": "Sat May  9 11:57:36 2020"
+    },
+    {
+        "nombre": "./SolucionRetos.ipynb",
+        "tamanio": 2682,
+        "fecha": "Sat May  9 09:39:20 2020"
+    },
+    {
+        "nombre": "./csvtojson.py",
+        "tamanio": 1030,
+        "fecha": "Sat May  9 10:52:23 2020"
+    },
+    {
+        "nombre": "./POO.ipynb",
+        "tamanio": 1014,
+        "fecha": "Sat May  9 11:35:21 2020"
+    },
+    {
+        "nombre": "./dos.txt",
+        "tamanio": 105,
+        "fecha": "Sat May  9 09:20:50 2020"
+    },
+    {
+        "nombre": "./.ipynb_checkpoints",
+        "tamanio": 0,
+        "fecha": "Sat May  9 11:57:57 2020"
+    },
+    {
+        "nombre": "./datos",
+        "tamanio": 0,
+        "fecha": "Sat May  9 11:07:39 2020"
+    },
+    {
+        "nombre": "./uno.txt",
+        "tamanio": 0,
+        "fecha": "Sat May  9 09:20:08 2020"
+    }
 ]

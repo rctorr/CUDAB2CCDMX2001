@@ -1,57 +1,442 @@
 [
     {
-        "nombre": "./archivos.py",
-        "tamanio": 4842,
-        "fecha": "Sat May  9 09:57:33 2020"
+        "nombre": "/home/rctorr/.xsession-errors.old",
+        "tamanio": 2402230,
+        "fecha": "Thu May  7 00:04:17 2020"
     },
     {
-        "nombre": "./SolucionRetos.ipynb",
-        "tamanio": 2682,
-        "fecha": "Sat May  9 09:39:20 2020"
+        "nombre": "/home/rctorr/.xsession-errors",
+        "tamanio": 1008111,
+        "fecha": "Sat May  9 11:08:04 2020"
     },
     {
-        "nombre": "./salida2.json",
-        "tamanio": 1299,
-        "fecha": "Sat May  9 10:16:48 2020"
+        "nombre": "/home/rctorr/.mycli.log",
+        "tamanio": 210392,
+        "fecha": "Tue Feb 11 18:29:04 2020"
     },
     {
-        "nombre": "./salida.txt",
-        "tamanio": 1086,
-        "fecha": "Sat May  9 10:16:48 2020"
+        "nombre": "/home/rctorr/.mycli-history",
+        "tamanio": 42328,
+        "fecha": "Fri Feb  7 21:39:27 2020"
     },
     {
-        "nombre": "./salida.json",
-        "tamanio": 969,
-        "fecha": "Sat May  9 10:16:48 2020"
+        "nombre": "/home/rctorr/.bash_history",
+        "tamanio": 37249,
+        "fecha": "Sat May  9 08:24:59 2020"
     },
     {
-        "nombre": "./ArgumentosExcepciones.ipynb",
-        "tamanio": 896,
-        "fecha": "Sat May  9 10:05:43 2020"
+        "nombre": "/home/rctorr/.viminfo",
+        "tamanio": 25113,
+        "fecha": "Thu Apr 30 21:23:46 2020"
     },
     {
-        "nombre": "./salida.csv",
-        "tamanio": 527,
-        "fecha": "Sat May  9 10:16:48 2020"
+        "nombre": "/home/rctorr/.mysql_history",
+        "tamanio": 6633,
+        "fecha": "Thu Dec 19 11:13:06 2019"
     },
     {
-        "nombre": "./dos.txt",
-        "tamanio": 105,
-        "fecha": "Sat May  9 09:20:50 2020"
+        "nombre": "/home/rctorr/.bashrc",
+        "tamanio": 6233,
+        "fecha": "Tue Mar  3 14:56:48 2020"
     },
     {
-        "nombre": "./csvtojson.py",
-        "tamanio": 61,
-        "fecha": "Sat May  9 10:09:21 2020"
+        "nombre": "/home/rctorr/.ICEauthority",
+        "tamanio": 5270,
+        "fecha": "Thu May  7 07:49:27 2020"
     },
     {
-        "nombre": "./.ipynb_checkpoints",
+        "nombre": "/home/rctorr/.bashrc.bak",
+        "tamanio": 4329,
+        "fecha": "Mon Nov 11 10:26:44 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.myclirc",
+        "tamanio": 4213,
+        "fecha": "Mon Nov 25 20:18:56 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.sqlite_history",
+        "tamanio": 2369,
+        "fecha": "Fri Nov 15 18:12:59 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.vimrc",
+        "tamanio": 1853,
+        "fecha": "Thu Mar  5 03:34:56 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.dbshell",
+        "tamanio": 991,
+        "fecha": "Sat Dec 21 09:07:11 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.profile",
+        "tamanio": 807,
+        "fecha": "Sun Oct 20 03:58:07 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.python_history",
+        "tamanio": 740,
+        "fecha": "Sat May  2 13:17:53 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.gtkrc-xfce",
+        "tamanio": 516,
+        "fecha": "Sun Oct 20 03:58:07 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.recently-used",
+        "tamanio": 256,
+        "fecha": "Sat Nov 30 02:50:28 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.bash_logout",
+        "tamanio": 220,
+        "fecha": "Sun Oct 20 03:58:07 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.wget-hsts",
+        "tamanio": 215,
+        "fecha": "Thu Mar  5 03:49:47 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.Xauthority",
+        "tamanio": 199,
+        "fecha": "Thu May  7 07:49:27 2020"
+    },
+    {
+        "nombre": "/home/rctorr/Notas.md",
+        "tamanio": 160,
+        "fecha": "Sat Nov 23 09:29:56 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.lesshst",
+        "tamanio": 133,
+        "fecha": "Sun Apr  5 07:27:25 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.xinputrc",
+        "tamanio": 131,
+        "fecha": "Sat May  9 08:12:28 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.gitconfig",
+        "tamanio": 56,
+        "fecha": "Sat Nov  9 09:21:53 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.dmrc",
+        "tamanio": 23,
+        "fecha": "Sun Oct 20 04:43:40 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.gtkrc-2.0",
+        "tamanio": 22,
+        "fecha": "Sun Oct 20 03:58:07 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.aptitude",
         "tamanio": 0,
-        "fecha": "Sat May  9 10:08:28 2020"
+        "fecha": "Sat Nov 16 08:25:32 2019"
     },
     {
-        "nombre": "./uno.txt",
+        "nombre": "/home/rctorr/.atom",
         "tamanio": 0,
-        "fecha": "Sat May  9 09:20:08 2020"
+        "fecha": "Fri Jan 17 13:50:05 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.audacity-data",
+        "tamanio": 0,
+        "fecha": "Sat Mar 14 11:45:05 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.bash_it",
+        "tamanio": 0,
+        "fecha": "Tue Mar  3 14:53:26 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.cache",
+        "tamanio": 0,
+        "fecha": "Wed Apr 29 19:26:51 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.conda",
+        "tamanio": 0,
+        "fecha": "Mon Nov 11 10:26:21 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.config",
+        "tamanio": 0,
+        "fecha": "Sat May  9 05:58:55 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.dbus",
+        "tamanio": 0,
+        "fecha": "Sun Oct 20 09:24:30 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.gconf",
+        "tamanio": 0,
+        "fecha": "Tue Apr 28 10:47:39 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.gimp-2.8",
+        "tamanio": 0,
+        "fecha": "Tue Jan  7 18:29:25 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.gnome",
+        "tamanio": 0,
+        "fecha": "Wed Oct 30 03:50:26 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.gnome2",
+        "tamanio": 0,
+        "fecha": "Sat Mar 14 11:32:51 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.gnome2_private",
+        "tamanio": 0,
+        "fecha": "Sat Mar 14 11:32:51 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.gnupg",
+        "tamanio": 0,
+        "fecha": "Sun Oct 20 04:43:40 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.icons",
+        "tamanio": 0,
+        "fecha": "Sun Oct 27 02:35:59 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.ipython",
+        "tamanio": 0,
+        "fecha": "Mon Nov 11 11:19:51 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.jupyter",
+        "tamanio": 0,
+        "fecha": "Tue Mar 17 20:15:23 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.lightworks.thereCanBeOnlyOne",
+        "tamanio": 0,
+        "fecha": "Fri Jan  3 15:43:35 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.linuxmint",
+        "tamanio": 0,
+        "fecha": "Sun Oct 20 04:43:52 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.local",
+        "tamanio": 0,
+        "fecha": "Sun Oct 20 04:43:41 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.MCTranscodingSDK",
+        "tamanio": 0,
+        "fecha": "Fri Jan  3 15:43:35 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.mongorc.js",
+        "tamanio": 0,
+        "fecha": "Thu Dec 19 22:22:45 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.mono",
+        "tamanio": 0,
+        "fecha": "Sun Dec  1 08:11:02 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.mozilla",
+        "tamanio": 0,
+        "fecha": "Sun Oct 20 09:10:49 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.mysql",
+        "tamanio": 0,
+        "fecha": "Wed Nov 13 19:16:53 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.npm",
+        "tamanio": 0,
+        "fecha": "Sun Oct 27 11:30:34 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.pki",
+        "tamanio": 0,
+        "fecha": "Sun Oct 27 11:29:08 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.shutter",
+        "tamanio": 0,
+        "fecha": "Sat Apr 18 18:53:57 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.ssh",
+        "tamanio": 0,
+        "fecha": "Sat Jan 18 22:07:04 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.sudo_as_admin_successful",
+        "tamanio": 0,
+        "fecha": "Sun Oct 20 04:44:33 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.themes",
+        "tamanio": 0,
+        "fecha": "Sun Oct 27 02:35:59 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.thumbnails",
+        "tamanio": 0,
+        "fecha": "Wed Oct 23 12:54:32 2019"
+    },
+    {
+        "nombre": "/home/rctorr/.vim",
+        "tamanio": 0,
+        "fecha": "Thu Mar  5 03:15:52 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.vscode",
+        "tamanio": 0,
+        "fecha": "Tue May  5 18:02:13 2020"
+    },
+    {
+        "nombre": "/home/rctorr/.zoom",
+        "tamanio": 0,
+        "fecha": "Tue May  5 17:34:46 2020"
+    },
+    {
+        "nombre": "/home/rctorr/bin",
+        "tamanio": 0,
+        "fecha": "Tue Oct 29 14:47:44 2019"
+    },
+    {
+        "nombre": "/home/rctorr/Compranet",
+        "tamanio": 0,
+        "fecha": "Sun Dec  8 11:55:53 2019"
+    },
+    {
+        "nombre": "/home/rctorr/CursoPython",
+        "tamanio": 0,
+        "fecha": "Wed May  6 19:28:27 2020"
+    },
+    {
+        "nombre": "/home/rctorr/Cursos",
+        "tamanio": 0,
+        "fecha": "Sat Apr 25 08:19:46 2020"
+    },
+    {
+        "nombre": "/home/rctorr/DABT022019",
+        "tamanio": 0,
+        "fecha": "Sun Nov 17 10:54:13 2019"
+    },
+    {
+        "nombre": "/home/rctorr/DesarrolloPython",
+        "tamanio": 0,
+        "fecha": "Tue Nov 19 09:39:21 2019"
+    },
+    {
+        "nombre": "/home/rctorr/Descargas",
+        "tamanio": 0,
+        "fecha": "Sat May  9 11:06:10 2020"
+    },
+    {
+        "nombre": "/home/rctorr/Documentos",
+        "tamanio": 0,
+        "fecha": "Wed Feb  5 16:29:46 2020"
+    },
+    {
+        "nombre": "/home/rctorr/Downloads",
+        "tamanio": 0,
+        "fecha": "Sat May  9 07:48:16 2020"
+    },
+    {
+        "nombre": "/home/rctorr/Escritorio",
+        "tamanio": 0,
+        "fecha": "Tue May  5 19:16:26 2020"
+    },
+    {
+        "nombre": "/home/rctorr/Im\u00e1genes",
+        "tamanio": 0,
+        "fecha": "Wed May  6 17:41:48 2020"
+    },
+    {
+        "nombre": "/home/rctorr/Intro-a-bd",
+        "tamanio": 0,
+        "fecha": "Wed Dec 11 20:41:04 2019"
+    },
+    {
+        "nombre": "/home/rctorr/Introduccion-a-Bases-de-Datos",
+        "tamanio": 0,
+        "fecha": "Tue Nov 26 16:32:43 2019"
+    },
+    {
+        "nombre": "/home/rctorr/miniconda3",
+        "tamanio": 0,
+        "fecha": "Mon Apr 27 20:02:16 2020"
+    },
+    {
+        "nombre": "/home/rctorr/miniconda3.1",
+        "tamanio": 0,
+        "fecha": "Mon Nov 11 10:42:26 2019"
+    },
+    {
+        "nombre": "/home/rctorr/miniconda3.2",
+        "tamanio": 0,
+        "fecha": "Tue Jan 14 21:04:31 2020"
+    },
+    {
+        "nombre": "/home/rctorr/M\u00fasica",
+        "tamanio": 0,
+        "fecha": "Sun Oct 20 04:43:43 2019"
+    },
+    {
+        "nombre": "/home/rctorr/Plantillas",
+        "tamanio": 0,
+        "fecha": "Sun Oct 20 04:43:43 2019"
+    },
+    {
+        "nombre": "/home/rctorr/python-analisis-datos",
+        "tamanio": 0,
+        "fecha": "Sat May  9 08:21:05 2020"
+    },
+    {
+        "nombre": "/home/rctorr/P\u00fablico",
+        "tamanio": 0,
+        "fecha": "Sun Oct 20 04:43:43 2019"
+    },
+    {
+        "nombre": "/home/rctorr/repos",
+        "tamanio": 0,
+        "fecha": "Wed Mar 25 18:34:01 2020"
+    },
+    {
+        "nombre": "/home/rctorr/snap",
+        "tamanio": 0,
+        "fecha": "Mon Jan 27 13:20:20 2020"
+    },
+    {
+        "nombre": "/home/rctorr/temp",
+        "tamanio": 0,
+        "fecha": "Fri Dec 20 16:38:52 2019"
+    },
+    {
+        "nombre": "/home/rctorr/VirtualBox VMs",
+        "tamanio": 0,
+        "fecha": "Wed Nov 13 19:18:25 2019"
+    },
+    {
+        "nombre": "/home/rctorr/V\u00eddeos",
+        "tamanio": 0,
+        "fecha": "Tue Apr 14 13:13:53 2020"
+    },
+    {
+        "nombre": "/home/rctorr/webapps",
+        "tamanio": 0,
+        "fecha": "Sat Apr 25 07:59:20 2020"
     }
 ]
