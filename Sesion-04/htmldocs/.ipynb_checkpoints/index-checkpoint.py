@@ -1,14 +1,16 @@
-from bottle import route, run
+from bottle import route, run, HTTPResponse
+import csv
+import io
 import lc
 
 @route("/hola")
 def hola():
-    """ funci´on principal del script """
+    """ función principal del script """
     return "Hola Python"
 
 @route("/")
 def index():
-    """ Funci´on para responder la petici´on GET / """
+    """ Función para responder la petici´on GET / """
     
     # Leer el contenido de index.html
     with open("index.html") as da:
@@ -28,10 +30,50 @@ def index():
     
     return pagina
 
-@route("/json")
+@route("/json")  # GET /json
 def apijson():
-    """ Atiende la petici´on GET /json """
-    return { "Archivos":[{"mensaje": "Hola JSON"}, {"mensaje": "Hola JSON"}]}
+    """ Atiende la petición GET /json """
+    # Obtener la lista de archivos
+    carpeta = lc.Carpeta(".")
+    carpeta.obtiene_entradas()
+    # Construir la lista de entradas de tipo dict() 
+    entradas = [
+        {"nombre": e[0], "tamanio":e[1], "fecha": e[2]}
+        for e in carpeta.entradas
+    ]
+    # Integrar la lista de entradas al dict()
+    dictArchivos = {"Archivos":entradas}
+    
+    return dictArchivos
+
+@route("/csv")
+def apicsv():
+    """ Atiende la petición GET /csv """
+    # Obtener la lista de archivos
+    carpeta = lc.Carpeta(".")
+    carpeta.obtiene_entradas()
+    # Agregando fila de encabezados
+    encabezados = ["nombre", "Tamaño", "Fecha"]
+    entradas = [encabezados]
+    entradas += carpeta.entradas
+    
+    # Construir la lista en un archivo CSV en memoria (RAM)
+    da = io.StringIO()
+    csv_writer = csv.writer(da)
+    csv_writer.writerows(entradas)
+    # Reinicando índice del archivo
+    da.seek(0)
+    # Personalizar encabezados de respuesta del HTTP
+    h = {}
+    h["content-type"] = "text/csv"
+    h["Content-Disposition"] = "attachment;filename=archivos.csv"
+    
+    
+    return HTTPResponse(
+        body=da.read(),
+        status=200,  # ok
+        headers=h
+    )
 
 
 run(host='localhost', port=8080, debug=True)
